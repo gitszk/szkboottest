@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import javax.jws.WebService;
 
 @SpringBootApplication
-@WebService
 public class SzkboottestApplication {
 
 	public static void main(String[] args) {
